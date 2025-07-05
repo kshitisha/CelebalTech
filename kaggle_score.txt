@@ -1,0 +1,9 @@
+Kaggle Competition: House Prices - Advanced Regression Techniques
+Submission File: sample_submission.csv
+Score (RMSLE): 0.14252
+Date: July 5, 2025
+Notes:
+- Baseline pipeline using Linear Regression, Random Forest, and XGBoost
+- Basic feature engineering (TotalSF, HouseAge, etc.)
+- StandardScaler applied
+- Default XGBoost hyperparameters (n_estimators=100, learning_rate=0.05)
